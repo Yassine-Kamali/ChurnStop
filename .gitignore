@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+.env
+.venv
+ENV/
+env/
+*.csv
+!churn_train.csv
+!churn_test.csv
+!churn_new.csv
+predictions_finales.csv
+test_predictions_finales.csv
